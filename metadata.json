@@ -1,0 +1,8 @@
+{
+  "name": "StyleVoyage 2.0",
+  "description": "AI-Powered Aesthetic Travel Curator for high-end niche markets, prioritizing aesthetic-driven planning and visual scripts.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
